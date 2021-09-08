@@ -5,7 +5,7 @@
   <img align="center" alt="Andr3w-CSS" height="30" width="80" src="/icons/css3-original.svg">
   <img align="center" alt="Andr3w-Python" height="30" width="80" src="/icons/python-original.svg">
   <img align="center" alt="Andr3w-git" height="30" width="80" src="/icons/git-original.svg">
-  <img align="center" alt="Andr3w-flask" height="30" width="80" src="/icons/flask-original-wordmark.svg">
+  <img align="center" alt="Andr3w-flask" height="30" width="80" src="/icons/flask-original.svg">
   <img align="center" alt="Andr3w-flask" height="30" width="80" src="/icons/html5-original.svg">
 </div>
 <hr>
