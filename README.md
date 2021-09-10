@@ -1,4 +1,4 @@
-### Hi im Andr3w!
+### Hi im Andr3w
 <hr>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Andr3w-Js" height="30" width="80" src="./icons/javascript-original.svg">
