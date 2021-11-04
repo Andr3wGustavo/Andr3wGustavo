@@ -8,10 +8,6 @@
   <img align="center" alt="Andr3w-flask" height="30" width="80" src="/icons/html5-original.svg">
 </div>
 <hr>
-<div>
-  <a href="https://github.com/Andr3wGustavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr3wGustavo&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Andr3wGustavo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
+
   
 
