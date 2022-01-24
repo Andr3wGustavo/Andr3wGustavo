@@ -6,7 +6,7 @@
   <img alt="CSS3" height="50" width="60" src="icons/css3.svg">
   <img alt="JavaScript" height="50" width="60" src="icons/javascript.svg">
   <img alt="Python" height="50" width="60" src="icons/python.svg">
-  <img alt="nodejs" height="50" width="60" src="icons/nodejs.svg">
+  <img alt="nodejs" height="50" width="60" src="icons/nodejs-icon.svg">
   <img alt="cpp" height="50" width="60" src="icons/cpp.svg">
 </div>
 <br/>
