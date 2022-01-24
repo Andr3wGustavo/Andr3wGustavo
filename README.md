@@ -8,6 +8,8 @@
   <img alt="Python" height="50" width="60" src="icons/python.svg">
   <img alt="nodejs" height="50" width="60" src="icons/nodejs-icon.svg">
   <img alt="cpp" height="50" width="60" src="icons/cpp.svg">
+  <img alt="reactjs" height="50" width="60" src="icons/reaact-js.svg">
+
 </div>
 <br/>
 <div style="display: inline_block" align="center">
