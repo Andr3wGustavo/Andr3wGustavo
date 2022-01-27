@@ -1,6 +1,6 @@
 ### Hi im Andr3w
 <div style="display: flex; flex-direction: column;" align="center"><br>
-  <h1>Hi!, I'm Andrew!<h1/>
+  <h1>Hi!, Im Andrew!<h1/>
   <img alt="Git" height="50" width="60" src="icons/git.svg">
   <img alt="HTML5" height="50" width="60" src="icons/html5.svg">
   <img alt="CSS3" height="50" width="60" src="icons/css3.svg">
